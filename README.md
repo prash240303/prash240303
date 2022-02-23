@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 
 ![intro](https://user-images.githubusercontent.com/93905743/155081155-02134da7-4dfc-4faa-a78e-ba00e68212f4.png)
 
+
+
+my stats : 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=prash240303)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
