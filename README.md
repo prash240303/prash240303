@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Javascript , and DSA**
 
-- 👨‍💻 Currently I am studying in [NIT Jalandhar](NIT Jalandhar)
+- 👨‍💻 Currently I am studying in NIT Jalandhar
 
 - 💬 Ask me about **Design , and Web developement**
 
