@@ -29,3 +29,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prash240303&show_icons=true&locale=en" alt="prash240303" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prash240303&" alt="prash240303" /></p>
+
+[![@prash2403036's Holopin board](https://holopin.me/prash2403036)](https://holopin.io/@prash2403036)
+
