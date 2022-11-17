@@ -9,7 +9,7 @@
 
 - 👨‍💻 Currently I am studying in [NIT Jalandhar](NIT Jalandhar)
 
-- 💬 Ask me about **Design , and Web developement**
+- 💬 Ask me about **Design , and Front end in web **
 
 - 📫 How to reach me **prash2402@gmail.com**
 
