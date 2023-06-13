@@ -14,8 +14,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prash240303&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prash240303&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
 ---
-                    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+                    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](https://visitor-badge.laobi.icu/badge?page_id=prash240303.visitor-badge))
+
 [![@prash2403036's Holopin board](https://holopin.me/prash2403036)](https://holopin.io/@prash2403036)
 
