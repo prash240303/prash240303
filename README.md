@@ -14,11 +14,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prash240303&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=prash240303&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=@prash2403)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
 ---
-[![](https://visitcount.itsvg.in/api?id=prash240303&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
+                    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 [![@prash2403036's Holopin board](https://holopin.me/prash2403036)](https://holopin.io/@prash2403036)
 
