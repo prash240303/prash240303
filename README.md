@@ -16,7 +16,6 @@
 
 
 ---
-                    ![visitors](https://visitor-badge.laobi.icu/badge?page_id=[page.id](https://visitor-badge.laobi.icu/badge?page_id=prash240303.visitor-badge))
 
 [![@prash2403036's Holopin board](https://holopin.me/prash2403036)](https://holopin.io/@prash2403036)
 
