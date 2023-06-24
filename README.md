@@ -4,8 +4,6 @@
 🌱 I’m currently learning Javascript, React, and DSA<br><br>👨‍💻 Currently I am studying at [NIT Jalandhar](NIT Jalandhar)<br><br>💬 Ask me about Design and Front end in the web<br><br>📫 How to reach me prash2402@gmail.com<br><br>
 
 
-![Bettina](https://github.com/prash240303/prash240303/assets/93905743/16c68577-57b7-4bb9-8b19-a118d24c6351)
-
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@prash2403) 
