@@ -17,6 +17,3 @@
 
 
 ---
-
-[![@prash2403036's Holopin board](https://holopin.me/prash2403036)](https://holopin.io/@prash2403036)
-
