@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Prashant</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 # 💫 About Me:
+<br/><br/>
+My portfolio : <a href="https://portfolio-prash.vercel.app/" target="_blank">Portfolio</a> <br/><br/>
 🌱 I’m currently learning Javascript, React, and DSA<br><br>👨‍💻 Currently I am studying at [NIT Jalandhar](NIT Jalandhar)<br><br>💬 Ask me about Design and Front end in the web<br><br>📫 How to reach me prash2402@gmail.com<br><br>
 
 
