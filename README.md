@@ -42,6 +42,5 @@ My portfolio : <a href="https://portfolio-prash.vercel.app/" target="_blank">Por
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=prash240303&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=prash240303&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=prash240303&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
