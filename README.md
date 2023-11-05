@@ -39,8 +39,9 @@ My portfolio : <a href="https://portfolio-prash.vercel.app/" target="_blank">Por
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=prash240303&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=prash240303&theme=dark&hide_border=false)<br/>
-
+<div align="left">
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prash240303&theme=gotham&hide_border=true" alt="prashant" /></a> <a href="https://github.com/anuraghazra/convoychat"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=prash240303&theme=gotham&show_icons=true&hide_border=true&hide_rank=true" /></a>
+ 
+</div>
 ---
