@@ -16,16 +16,17 @@ I'm on a journey of continuous learning, currently diving deep into the world of
 Feel free to reach out to me at: [prashantp.cs.21@nitj.ac.in](mailto:prashantp.cs.21@nitj.ac.in)
 <br><br>
 
-## Get in Touch! 🌟
-<div align="center">
-  <a href="https://www.linkedin.com/in/prashant-012927227/">
-    <img src="https://user-images.githubusercontent.com/65576812/183569542-480ab1ee-9e98-4cd9-a60a-23919be2feb4.png" width="150px">
-  </a>
+## 🤝 Connect with me
+<p>
+I love networking and connecting with people of different backgrounds and hence I'm an active member of numerous technical and non-technical clubs and societies⚡
+<br/>
+You can connect with me here-
+</p>
 
-  <a href="mailto:prashantp.cs.21@nitj.ac.in">
-    <img src="https://user-images.githubusercontent.com/65576812/183569557-bc45c86d-c4d9-472d-b584-b025ffa7a39e.png" width="150px">
-  </a>
-</div>
+
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/prashant2403/)
+[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/prash2403)
+
 
 
 ## Languages and tools that I use
