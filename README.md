@@ -1,32 +1,34 @@
-<div align="center">
-  <h1>Hi there! 👋 I'm Prashant Prabhakar</h1>
-  <h3>Passionate Frontend Developer | Student at NIT Jalandhar | Web Enthusiast</h3>
-</div>
+
+# Hey 👋, I'm [Prashant Prabhakar](https://portfolio-prash.vercel.app/) 
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant2403/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prash2403)
+[![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)]([https://blog.vikrantbhat.com/](https://hashnode.com/@Prash240303))
+
+
+### Passionate Frontend Developer | Student at NIT Jalandhar | Web Enthusiast
+
 
 ## About Me 🚀
 I'm a passionate frontend developer based in India, currently pursuing my undergraduate studies at NIT Jalandhar. I thrive on transforming creative concepts into elegant and user-friendly web solutions.
-<br><br>
 
-Explore my portfolio: [Portfolio](https://portfolio-prash.vercel.app/)
-<br><br>
+### Talking about Personal Stuff:
 
-I'm on a journey of continuous learning, currently diving deep into the world of JavaScript/Typescript, Nextjs, and Data Structures & Algorithms (DSA). With a strong foundation in web design and front-end development, I'm excited to explore new technologies and create engaging user experiences.
-<br><br>
+- 🛠 &nbsp; At the moment working with NextJS, Typescript, NodeJS, Firebase & Tailwind.
+- 👀 &nbsp; What I want to learn: Svelte.js, Django, 
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/prash240303).
+- 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
+- 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/prash2403) or prashantp.cs.21@nitj.ac.in .
+### My Absolute Favorites:
+
+- 💻 &nbsp; I love to explore new tech and build cool stuff with it.
+- 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
+- 🍕 &nbsp; Hackathons, meetups & tech events.
+- ⚡ &nbsp; Fun fact: I love to make artworks and anime.
+
 
 Feel free to reach out to me at: [prashantp.cs.21@nitj.ac.in](mailto:prashantp.cs.21@nitj.ac.in)
 <br><br>
-
-## 🤝 Connect with me
-<p>
-I love networking and connecting with people of different backgrounds and hence I'm an active member of numerous technical and non-technical clubs and societies⚡
-<br/>
-You can connect with me here-
-</p>
-
-
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/prashant2403/)
-[<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/prash2403)
-
 
 
 ## Languages and tools that I use
@@ -48,7 +50,6 @@ You can connect with me here-
 </p>
 
 
----
 
 <div align="left">
  
