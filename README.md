@@ -19,13 +19,6 @@ I'm a passionate frontend developer based in India, currently pursuing my underg
 - 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/prash240303).
 - 👾 &nbsp; Fun fact: undefined can be defined in Javascript. <!-- > var some_var; undefined > some_var == undefined true > undefined = 'i am undefined' -->
 - 📫 &nbsp; How to reach me: [Twitter](https://twitter.com/prash2403) or prashantp.cs.21@nitj.ac.in .
-### My Absolute Favorites:
-
-- 💻 &nbsp; I love to explore new tech and build cool stuff with it.
-- 📰 &nbsp; Reading & writing tech blogs whenever I find a not so common solution to a problem that I personally faced.
-- 🍕 &nbsp; Hackathons, meetups & tech events.
-- ⚡ &nbsp; Fun fact: I love to make artworks and anime.
-
 
 Feel free to reach out to me at: [prashantp.cs.21@nitj.ac.in](mailto:prashantp.cs.21@nitj.ac.in)
 <br><br>
