@@ -1,12 +1,12 @@
 
-# Hey 👋, I'm [Prashant Prabhakar](https://portfolio-prash.vercel.app/) 
+# Hey 👋, I'm [Prashant Prabhakar](https://portfolio-prash.vercel.app/) Passionate Frontend Developer | Student at NIT Jalandhar | Web Enthusiast
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant2403/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prash2403)
 [![Hashnode Badge](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)]([https://blog.vikrantbhat.com/](https://hashnode.com/@Prash240303))
 
 
-### Passionate Frontend Developer | Student at NIT Jalandhar | Web Enthusiast
+### 
 
 
 ## About Me 🚀
