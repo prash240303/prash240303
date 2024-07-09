@@ -10,7 +10,7 @@
 
 
 ## About Me 🚀
-I'm a passionate frontend developer based in India, currently pursuing my undergraduate studies at NIT Jalandhar. I thrive on transforming creative concepts into elegant and user-friendly web solutions.
+I'm a passionate frontend developer based in India. I thrive on transforming creative concepts into elegant and user-friendly web solutions.
 
 ### Talking about Personal Stuff:
 
