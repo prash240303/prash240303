@@ -2,7 +2,6 @@
 # Hey 👋, I'm [Prashant Prabhakar](https://portfolio-prash.vercel.app/) Passionate Frontend Developer | CS UnderGrad @NIT Jalandhar 
 
 
-### 
 
 
 ## About Me 🚀
