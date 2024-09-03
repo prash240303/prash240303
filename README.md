@@ -1,8 +1,6 @@
 
 # Hey 👋, I'm [Prashant Prabhakar](https://portfolio-prash.vercel.app/) Passionate Frontend Developer | CS UnderGrad @NIT Jalandhar 
 
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prashant2403/)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/prash2403)
 
 ### 
 
