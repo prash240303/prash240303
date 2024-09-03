@@ -12,24 +12,6 @@ I'm a passionate frontend developer based in India currently pursuing CS bachelo
 
 
 
-## Languages and tools that I use
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,python,c,cpp" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=next,react,tailwind,nodejs,bootstrap,materialui" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,figma,netlify,vercel" />
-  </a>
-</p>
-
 
 
 <div align="left">
