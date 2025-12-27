@@ -1,5 +1,5 @@
 
-# Hey 👋, I'm [Prashant Prabhakar](https://portfolio-prash.vercel.app/) Passionate Frontend Developer | CS UnderGrad @NIT Jalandhar 
+# Hey 👋, I'm [Prashant Prabhakar](https://portfolio-prash.vercel.app/) | SDE - BPCL|  Passionate Frontend Developer | CSE @NIT Jalandhar 
 
 
 <div>
