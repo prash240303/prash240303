@@ -1,17 +1,15 @@
+# Hi, I'm Prashant 👋
 
-# Hey 👋, I'm [Prashant Prabhakar](https://portfolio-prash.vercel.app/) | SDE - BPCL|  Passionate Frontend Developer | CSE @NIT Jalandhar 
+A Front-end developer from India. I love crafting intuitive and dynamic **UIs** with Next.js.
 
+I specialize in building responsive and user-friendly websites, creating smooth and secure experiences.
 
-<div>
- <h3>
- About Me 🚀
- </h3>
-I'm a passionate frontend developer based in India currently pursuing CS bachelors from NIT Jalandhar, Punjab. I thrive on transforming creative concepts into elegant and user-friendly web solutions.
-</div>
+I enjoy browsing the web and crafting components. You can find my [crafts](https://crafts-three.vercel.app) here. Currently, I'm exploring AI and backend technologies.
 
+A Snapshot of my [work exp](./work) ↗
 
-## ✔ My Projects
-<p>
-Check my repositories below 👇
-</p>
-</div>
+---
+
+Find me on twitter at [x.com](https://x.com/prash2403) or drop a [email](mailto:prash2402works@gmail.com)
+
+✨ **[Check out my portfolio](https://portfolio-prash.vercel.app/)** 
